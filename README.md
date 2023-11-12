@@ -4,6 +4,31 @@ this is a No-ROS version dense reconstruction project, modified from [stereo_den
 ## Run
 * requirements: PCL and Opencv
 
-```cpp
+* change data path in `src/elas_reconstruction.cpp` as your path
 
+```shell
+cd /path/to/project
+mkdir build && cd build
+cmake ..
+make -j8
 ```
+
+## Visualization 
+
+### disparity map
+
+* opencv SGBM
+  
+![SGBM](./screenshot/sgbm_screenshot_01.07.2023.png)
+
+* ELAS
+  
+![SGBM](./screenshot/elas_screenshot_01.07.2023.png)
+
+
+### dense recon
+
+![Kitti dense recon](./screenshot/screenshot-1688196678.png)
+![Kitti dense recon2](./screenshot/screenshot-1688224255.png)
+
+
