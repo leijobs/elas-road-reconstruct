@@ -4,6 +4,11 @@ this is a No-ROS version dense reconstruction project, modified from [stereo_den
 ## Run
 * requirements: PCL and Opencv
 
-```cpp
+* change data path in `src/elas_reconstruction.cpp` as your path
 
+```shell
+cd /path/to/project
+mkdir build && cd build
+cmake ..
+make -j8
 ```
