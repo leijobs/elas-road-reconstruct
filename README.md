@@ -19,11 +19,11 @@ make -j8
 
 * opencv SGBM
   
-![SGBM](./screenshot/disparity image_screenshot_01.07.2023.png)
+![SGBM](./screenshot/sgbm_screenshot_01.07.2023.png)
 
 * ELAS
   
-![SGBM](./screenshot/elas image_screenshot_01.07.2023.png)
+![SGBM](./screenshot/elas_screenshot_01.07.2023.png)
 
 
 ### dense recon
