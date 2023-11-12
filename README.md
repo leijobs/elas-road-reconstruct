@@ -19,16 +19,16 @@ make -j8
 
 * opencv SGBM
   
-![SGBM]("./screenshot/disparity image_screenshot_01.07.2023.png")
+![SGBM](./screenshot/disparity image_screenshot_01.07.2023.png)
 
 * ELAS
   
-![SGBM]("./screenshot/elas image_screenshot_01.07.2023.png")
+![SGBM](./screenshot/elas image_screenshot_01.07.2023.png)
 
 
 ### dense recon
 
-![Kitti dense recon]("./screenshot/screenshot-1688196678.png")
-![Kitti dense recon2]("./screenshot/screenshot-1688224255.png")
+![Kitti dense recon](./screenshot/screenshot-1688196678.png)
+![Kitti dense recon2](./screenshot/screenshot-1688224255.png)
 
 
